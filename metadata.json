@@ -1,0 +1,6 @@
+{
+  "name": "CineCraft - AI Video Studio",
+  "description": "Professional AI video creation studio powered by Google Gemini Omni Flash and Veo models for text-to-video, image animation, and scene extension.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
